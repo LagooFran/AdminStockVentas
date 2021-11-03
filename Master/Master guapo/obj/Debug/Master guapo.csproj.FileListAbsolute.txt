@@ -1,0 +1,33 @@
+c:\users\la3g4\documents\visual studio 2015\Projects\Master guapo\Master guapo\bin\Debug\Master guapo.exe.config
+C:\Users\la3g4\documents\visual studio 2015\Projects\Master guapo\Master guapo\obj\Debug\Master_guapo.Form1.resources
+C:\Users\la3g4\documents\visual studio 2015\Projects\Master guapo\Master guapo\obj\Debug\Master_guapo.Properties.Resources.resources
+C:\Users\la3g4\documents\visual studio 2015\Projects\Master guapo\Master guapo\obj\Debug\Master guapo.csproj.GenerateResource.Cache
+C:\Users\la3g4\documents\visual studio 2015\Projects\Master guapo\Master guapo\obj\Debug\Master_guapo.Form2.resources
+C:\Users\la3g4\documents\visual studio 2015\Projects\Master guapo\Master guapo\obj\Debug\Master_guapo.Form3.resources
+C:\Users\la3g4\documents\visual studio 2015\Projects\Master guapo\Master guapo\bin\Debug\Master guapo.exe
+C:\Users\la3g4\documents\visual studio 2015\Projects\Master guapo\Master guapo\bin\Debug\Master guapo.pdb
+C:\Users\la3g4\documents\visual studio 2015\Projects\Master guapo\Master guapo\obj\Debug\Master guapo.exe
+C:\Users\la3g4\documents\visual studio 2015\Projects\Master guapo\Master guapo\obj\Debug\Master guapo.pdb
+C:\Users\la3g4\documents\visual studio 2015\Projects\Master guapo\Master guapo\obj\Debug\Master guapo.csprojResolveAssemblyReference.cache
+C:\Users\la3g4\documents\visual studio 2015\Projects\Master guapo\Master guapo\obj\Debug\Master_guapo.Form4.resources
+C:\Users\la3g4\documents\visual studio 2015\Projects\Master guapo\Master guapo\obj\Debug\Master_guapo.Form5.resources
+C:\Users\la3g4\documents\visual studio 2015\Projects\Master guapo\Master guapo\obj\Debug\Master_guapo.Form6.resources
+C:\Users\la3g4\documents\visual studio 2015\Projects\Master guapo\Master guapo\obj\Debug\Master_guapo.Form7.resources
+C:\Users\la3g4\Documents\Visual Studio 2015\Projects\Master guapo\Master guapo\obj\Debug\Master_guapo.Form8.resources
+C:\Users\fran0\Desktop\Master guapo\Master guapo\obj\Debug\Master guapo.csproj.AssemblyReference.cache
+C:\Users\fran0\Desktop\Master guapo\Master guapo\obj\Debug\Master_guapo.Form1.resources
+C:\Users\fran0\Desktop\Master guapo\Master guapo\obj\Debug\Master_guapo.Form2.resources
+C:\Users\fran0\Desktop\Master guapo\Master guapo\obj\Debug\Master_guapo.Form3.resources
+C:\Users\fran0\Desktop\Master guapo\Master guapo\obj\Debug\Master_guapo.Form4.resources
+C:\Users\fran0\Desktop\Master guapo\Master guapo\obj\Debug\Master_guapo.Form5.resources
+C:\Users\fran0\Desktop\Master guapo\Master guapo\obj\Debug\Master_guapo.Form6.resources
+C:\Users\fran0\Desktop\Master guapo\Master guapo\obj\Debug\Master_guapo.Form7.resources
+C:\Users\fran0\Desktop\Master guapo\Master guapo\obj\Debug\Master_guapo.Form8.resources
+C:\Users\fran0\Desktop\Master guapo\Master guapo\obj\Debug\Master_guapo.Properties.Resources.resources
+C:\Users\fran0\Desktop\Master guapo\Master guapo\obj\Debug\Master guapo.csproj.GenerateResource.cache
+C:\Users\fran0\Desktop\Master guapo\Master guapo\obj\Debug\Master guapo.csproj.CoreCompileInputs.cache
+C:\Users\fran0\Desktop\Master guapo\Master guapo\obj\Debug\Master guapo.exe
+C:\Users\fran0\Desktop\Master guapo\Master guapo\obj\Debug\Master guapo.pdb
+C:\Users\fran0\Desktop\Master guapo\Master guapo\bin\Debug\Master guapo.exe.config
+C:\Users\fran0\Desktop\Master guapo\Master guapo\bin\Debug\Master guapo.exe
+C:\Users\fran0\Desktop\Master guapo\Master guapo\bin\Debug\Master guapo.pdb
